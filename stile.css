@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(116, 93, 158);
+}
+nav a, button{
+    min-width: 48px;
+    min-height: 48px;
+}
+body{
+    
+        margin: auto;
+        width: 50%;
+        border: 3px solid #131313;
+        padding: 10px;
+      
+}
